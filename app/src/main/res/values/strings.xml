@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coffe BAZZZ</string>
+    <string name="tv_name_latte">Latte</string>
+    <string name="tv_descr_latte">MMM LATTE</string>
+    <string-array name="list_options">
+        <item>Coffee</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+
+
+    <string-array name="spinner_options">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+</resources>
